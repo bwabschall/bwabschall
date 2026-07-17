@@ -63,6 +63,7 @@ C • pthreads • Concurrency
 ## What I'm Looking For
 
 I'm currently seeking opportunities in:
+- Cyber Security
 - Software Engineering
 - Backend Development
 - Cloud / AWS Engineering
